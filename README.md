@@ -23,3 +23,9 @@ Consistency
 Back-to-back: 2 Points
 Top 2 in 3 straight: 3 Points
 No 4th places in 5 games: 2 Points
+
+Items Used
+Most items used: 1 Point
+
+Spaces Travelled
+Most Spaces: 1 Point
