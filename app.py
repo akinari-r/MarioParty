@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 from PIL import Image
 
+
 from scoring import compute_game_points
 from consistency import compute_consistency_bonuses
 from state import init_state, save_games
